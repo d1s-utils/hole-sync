@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: hole-sync
+
+  main:
+    banner-mode: off

@@ -1,0 +1,12 @@
+logging:
+  level:
+    dev.d1s: debug
+
+hole:
+  sync:
+    index:
+      mapping:
+        hole-sync-test: /home/d1snin/hole-sync-test
+
+  server:
+    base-url: http://localhost:9191/
